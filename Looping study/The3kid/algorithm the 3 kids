@@ -1,0 +1,31 @@
+program the_3kids
+
+dictionary kid1, kid2, kid3 : integer
+Begin.
+
+output(kid1:);
+input(kid1);
+output(kid2:)
+input(kid2)
+output(kid3:)
+input(kid3)
+
+if kid1 = 15 then;
+	output(false);
+else if kid1 = 52 then;
+	output(false);
+else if kid1 = 77 then;
+	output (false0;
+if kid2 = 15 then;
+	output(true);
+else if kid1 = 52 then;
+	output(true);
+else if kid2 = 77 then;
+	output (true);
+if kid3 = 15 then;
+	output(false);
+else if kid3 = 52 then;
+	output(false);
+else if kid3 = 77 then;
+	output (false);
+Endif.
